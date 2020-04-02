@@ -25,6 +25,10 @@ Gaming news and critiques in one convenient place.
 
 ![](level-up-gaming/assets/images/screenshot1.png)
 
+## Deployment
+
+https://aw-exe.github.io/Level-Up-Gaming-Site/
+
 ## Tech Stack
 
 - What languages is it written with? Javascript, HTML & CSS.
